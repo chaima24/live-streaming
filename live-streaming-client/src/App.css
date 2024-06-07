@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.broadcaster, .viewer {
+  width: 45%;
+  margin: 10px;
+}
+
+.terminated-message {
+  color: red;
+  font-size: 18px;
+  text-align: center;
+}
