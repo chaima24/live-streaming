@@ -13,6 +13,7 @@
     "socket.io-client": "^4.7.5",
     "video.js": "^8.12.0",
     "videojs-contrib-hls": "^5.15.0",
+    "videojs-flash": "^2.2.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
